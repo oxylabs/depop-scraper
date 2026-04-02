@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Depop Scraper, you can smoothly gather all public data from any Depop webpage. Acquire the critical product details, including photographs, seller histories, or shipping details, thereby providing an essential foundation for your market analysis and outperforming your business rivals. If you need assistance, reach out to our support team through live chat or drop us an email at hello@oxylabs.io.
+With our Depop Scraper, you can smoothly gather all public data from any Depop webpage. Acquire the critical product details, including photographs, seller histories, or shipping details, thereby providing an essential foundation for your market analysis and outperforming your business rivals. If you need assistance, reach out to our support team through live chat or drop us an email at support@oxylabs.io.
